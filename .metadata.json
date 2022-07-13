@@ -1,1 +1,6 @@
-[]
+[
+  {
+    "package": "omu",
+    "oncran": true
+  }
+]
