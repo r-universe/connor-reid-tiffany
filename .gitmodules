@@ -7,5 +7,4 @@
 	path = omu
 	url = https://github.com/connor-reid-tiffany/omu
 	shallow = true
-	subdir = omu
 	registered = true
